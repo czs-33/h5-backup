@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="refresh" content="0; url=你的木疙瘩作品链接">
+    <title>《向北1.2km，向南1.3km》</title>
+</head>
+<body>
+    <p>页面跳转中，请稍候...</p>
+    <p>如果页面没有自动跳转，请<a href="https://m.u.h5mc.com/c/8ruo/3fs6/index.html">点击这里</a>访问作品。</p>
+</body>
+</html>
